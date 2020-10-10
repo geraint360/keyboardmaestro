@@ -24,6 +24,15 @@ Additional requirements: Smile Software's [PDF Pen](https://smilesoftware.com/PD
 Capture screen interactively, by selection or window. The contents of the screen grab is then OCR'd and the contents placed on the clipboard.
 
 
-## ScanSnap Attached
+## Fujitsu ScanSnap Macros
 
-When a ScanSnap document scanner is attached to the USB port (or switched on while attached), open the ScanSnap Home software and the folder ~/Documents/Scans ready for scanning.
+### ScanSnap Attached
+
+When a ScanSnap scanner is attached to the USB port (or switched on while attached), open the ScanSnap Home software and the folder _~/Documents/Scans_ ready for scanning.
+
+Additional requirements: Fujitsu [ScanSnap](https://www.fujitsu.com/us/products/computing/peripheral/scanners/soho/) document scanner, with the [ScanSnap Home](https://www.fujitsu.com/us/products/computing/peripheral/scanners/soho/sshome/) software installed. The folder _~/Documents/Scans_ created.
+
+
+### ScanSnap Detached
+
+When the ScanSnap document scanner is detached from the USB port (or switched off), quit the ScanSnap Home software.
