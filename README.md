@@ -30,7 +30,7 @@ Capture screen interactively, by selection or window. The contents of the screen
 
 When a ScanSnap scanner is attached to the USB port (or switched on while attached), open the ScanSnap Home software and the folder _~/Documents/Scans_ ready for scanning.
 
-Additional requirements: Fujitsu [ScanSnap](https://www.fujitsu.com/us/products/computing/peripheral/scanners/soho/) document scanner, with the ScanSnap Home software installed. The folder _~/Documents/Scans_ created.
+Additional requirements: Fujitsu [ScanSnap](https://www.fujitsu.com/us/products/computing/peripheral/scanners/soho/) document scanner, with the [ScanSnap Home](https://www.fujitsu.com/us/products/computing/peripheral/scanners/soho/sshome/) software installed. The folder _~/Documents/Scans_ created.
 
 
 ### ScanSnap Detached
