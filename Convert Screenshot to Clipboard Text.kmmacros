@@ -84,9 +84,9 @@
 				<key>CustomIconData</key>
 				<string>KMEP-ClippingPictureType</string>
 				<key>ModificationDate</key>
-				<real>624040267.01638997</real>
+				<real>624040050.21387303</real>
 				<key>Name</key>
-				<string>Convert Screenshot to OCR Clipboard Text</string>
+				<string>Screenshot to OCR Clipboard Text</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
